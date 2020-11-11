@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [ILab](https://github.com/academicpages/academicpages.github.io) at the University of Southern California where I work with Professor [Laurent Itti](https://pages.github.com). 
+I am a PhD student in [ILab](https://ilab.usc.edu/) at the University of Southern California where I work with Professor [Laurent Itti](http://ilab.usc.edu/itti/). I primarily work on developing adaptive learning methods for Perception and Control. You can find my [Resume](http://ilab.usc.edu/itti/) and my [Cover Letter](http://ilab.usc.edu/itti/)
 
-This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV.
+I'm also a full-stack roboticicst and spend rest of my time building and deploying learning algorithms to hardware platforms. We are building a large-scale mobile-manipulator for our experiments. Please visit the Beobotv3 project for more details.
 
-You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Recently, we also started BeoSim, which is a [Gazebo](http://gazebosim.org/) based simulator for large-scale mobile-manipulation tasks using a simulated version of Beobot. Checkout the [BeoSim](http://gazebosim.org/) project.
 
-An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
+
+I borrowed this website from this amazing [repository](https://github.com/academicpages/academicpages.github.io).
