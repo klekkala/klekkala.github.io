@@ -7,6 +7,7 @@ author_profile: true
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  <br/><img src='/images/500x300.png'>"
 {% endif %}
 
 {% include base_path %}
