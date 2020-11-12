@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "CS PhD student at USC"
+  name             : "CS PhD Student"
   avatar           : "profile_pic.jpg"
   bio              : "Researcher in Robot Learning for Perception and Control, Full-stack Roboticist"
   location         : "Los Angeles"
