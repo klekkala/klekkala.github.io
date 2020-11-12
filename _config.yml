@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kiran Lekkala"
 title_separator          : "-"
 name                     : &name "Kiran Lekkala"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kiran Lekkala"
+  name             : "CS PhD student at USC"
   avatar           : "profile_pic.jpg"
-  bio              : "CS PhD student at USC, Researcher in Robot Learning for Perception and Control, Full-stack Roboticist"
+  bio              : "Researcher in Robot Learning for Perception and Control, Full-stack Roboticist"
   location         : "Los Angeles"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
