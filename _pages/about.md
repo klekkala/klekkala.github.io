@@ -20,7 +20,7 @@ I borrowed this website from this amazing [repository](https://github.com/academ
 
 
 ## News
-- First item
-- Second item
-- Third item
-- Beo
+- Preprint on Attentive feature reuse out!
+- Preprint on Meta adaptation out!
+- I'm honoured to have recieved the Annenberg Fellowship for my PhD!
+- I'll be joining ILab to start my PhD at USC from Fall 2018
