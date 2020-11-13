@@ -17,3 +17,10 @@ Recently, we also started BeoSim, which is a [Gazebo](http://gazebosim.org/) bas
 
 
 I borrowed this website from this amazing [repository](https://github.com/academicpages/academicpages.github.io).
+
+
+## News
+- First item
+- Second item
+- Third item
+- Beo

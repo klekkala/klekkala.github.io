@@ -4,16 +4,17 @@ main:
     url: /publications/   
     
   - title: "Mind maps"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /mindmaps/
     
   - title: "BeoSim"
-    url: /talks/    
+    url: /beosim/    
 
   - title: "BeoGym"
     url: /beogym/ 
 
   - title: "BeoBot"
     url: /beobot/  
+
+  - title: "Resume"
+    url: /resume/
+    
