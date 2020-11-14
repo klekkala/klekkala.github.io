@@ -1,6 +1,6 @@
 ---
-title: "Shaped Policy Search for Evolutionary Strategies using Waypoints
-"
+title: "Shaped Policy Search for Evolutionary Strategies using Waypoints"
+author_profile: false
 collection: publications
 permalink: /publication/shaped_search
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

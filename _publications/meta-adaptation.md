@@ -1,7 +1,7 @@
 ---
 title: "Meta Adaptation using Importance Weighted Demonstrations"
 teaser: image-alignment-150x150.jpg
-
+author_profile: false
 collection: publications
 permalink: /publication/shaped_search
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
