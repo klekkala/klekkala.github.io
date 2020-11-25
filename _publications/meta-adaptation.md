@@ -1,6 +1,6 @@
 ---
 title: "Meta Adaptation using Importance Weighted Demonstrations"
-teaser: image-alignment-150x150.jpg
+teaser: images/image-alignment-150x150.jpg
 author_profile: false
 collection: publications
 permalink: /publication/shaped_search

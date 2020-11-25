@@ -1,6 +1,6 @@
 ---
-title: "Attentive Feature Reuse for Multi Task Meta learning
-"
+title: "Attentive Feature Reuse for Multi Task Meta learning"
+author_profile: false
 collection: publications
 permalink: /publication/shaped_search
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

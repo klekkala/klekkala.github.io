@@ -1,5 +1,6 @@
 ---
 title: "Shaped Policy Search for Evolutionary Strategies using Waypoints"
+teaser: image-alignment-150x150.jpg
 author_profile: false
 collection: publications
 permalink: /publication/shaped_search
