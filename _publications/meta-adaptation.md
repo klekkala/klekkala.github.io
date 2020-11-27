@@ -1,13 +1,11 @@
 ---
 title: "Meta Adaptation using Importance Weighted Demonstrations"
-teaser: images/image-alignment-150x150.jpg
+teaser: images/metaadapt.PNG
 author_profile: false
 collection: publications
 permalink: /publication/shaped_search
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-10-01
-venue: 'Arxiv'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ''
+date: 2019-09-15
+venue: ''
+paperurl: 'https://arxiv.org/abs/1911.10322'
 ---
-This paper is about the number 1. The number 2 is left for future work.
