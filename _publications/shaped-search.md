@@ -7,5 +7,5 @@ permalink: /publication/shaped_search
 excerpt: ''
 date: 2020-10-01
 venue: ''
-paperurl: 'files/shapedsearch.pdf'
+paperurl: '/files/shapedsearch.pdf'
 ---
