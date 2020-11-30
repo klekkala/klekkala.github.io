@@ -2,19 +2,19 @@
 main:
   - title: "Publications"
     url: /publications/   
-    
-  - title: "Mind maps"
-    url: /mindmaps/
-    
-  - title: "BeoSim"
-    url: /beosim/    
 
-  - title: "BeoGym"
-    url: /beogym/ 
+  - title: "Datasets"
+    url: /datasets/ 
+
+  - title: "Mind maps"
+    url: /mindmaps/  
 
   - title: "BeoBot"
     url: /beobot/  
 
+  - title: "BeoSim"
+    url: /beosim/  
+    
   - title: "Resume"
     url: /resume/
     
