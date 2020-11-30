@@ -1,6 +1,6 @@
 ---
 title: "Meta Adaptation using Importance Weighted Demonstrations"
-teaser: images/metaadapt.PNG
+teaser: metaadapt.PNG
 author_profile: false
 collection: publications
 permalink: /publication/meta_adapt

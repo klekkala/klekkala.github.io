@@ -1,6 +1,6 @@
 ---
 title: "Attentive Feature Reuse for Multi Task Meta learning"
-teaser: images/attentivereuse.PNG
+teaser: attentivereuse.PNG
 author_profile: false
 collection: publications
 permalink: /publication/multitask_metalearn
