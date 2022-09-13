@@ -6,13 +6,13 @@ main:
   - title: "Datasets"
     url: /datasets/ 
 
-  - title: "Mind maps"
+  - title: "Software"
     url: /mindmaps/  
 
-  - title: "BeoBot"
+  - title: "Hardware"
     url: /beobot/  
 
-  - title: "BeoSim"
+  - title: "Projects"
     url: /beosim/  
     
   - title: "Resume"
