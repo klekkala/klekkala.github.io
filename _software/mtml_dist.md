@@ -2,8 +2,8 @@
 title: "Attentive Feature Reuse for Multi Task Meta learning"
 teaser: attentivereuse.PNG
 author_profile: false
-collection: publications
-permalink: /publication/multitask_metalearn
+collection: software
+permalink: /software/mtml_dist
 excerpt: 'API for distributed training of multi task learning networks'
 date: 2020-06-01
 venue: ''

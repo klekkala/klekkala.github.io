@@ -1,15 +1,12 @@
 ---
 layout: archive
-permalink: /resume/
-author_profile: true
-redirect_from:
-  - /resume
+permalink: /projects/
+author_profile: false
+title: "Projects"
 ---
 
 {% include base_path %}
 
-
-<iframe src="/files/kiran_resume.pdf" height="800" width="1000"></iframe>
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
