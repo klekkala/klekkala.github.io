@@ -7,13 +7,13 @@ main:
     url: /datasets/ 
 
   - title: "Software"
-    url: /mindmaps/  
+    url: /software/  
 
   - title: "Hardware"
-    url: /beobot/  
+    url: /hardware/  
 
   - title: "Projects"
-    url: /beosim/  
+    url: /projects/  
     
   - title: "Resume"
     url: /resume/
