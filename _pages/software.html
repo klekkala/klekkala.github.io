@@ -1,15 +1,15 @@
 ---
 layout: archive
-permalink: /software/
 title: "Software"
+permalink: /software/
 author_profile: false
-sidebar: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
 
+{% include base_path %}
+{% for post in site.software reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 

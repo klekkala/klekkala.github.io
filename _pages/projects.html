@@ -1,13 +1,33 @@
 ---
 layout: archive
+title: "Projects"
 permalink: /projects/
 author_profile: false
-title: "Projects"
 ---
 
 {% include base_path %}
 
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
+<div style = "position:absolute; left:150px; top:300px; width: 300px">
+	<img src="/images/attentivereuse.PNG" alt="Italian Trulli" align="left">
+</div>
+
+
+<div style = "position:absolute; left:150px; top:800px; width: 300px">
+	<img src="/images/attentivereuse.PNG" alt="Italian Trulli" align="left">
+</div>
+
+
+<div style = "position:absolute; left:150px; top:1300px; width: 300px">
+	<img src="/images/attentivereuse.PNG" alt="Italian Trulli" align="left">
+</div>
+
+
+<div style = "position:absolute; left:150px; top:1800px; width: 300px">
+	<img src="/images/attentivereuse.PNG" alt="Italian Trulli" align="left">
+</div>

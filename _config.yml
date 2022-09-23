@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "CS PhD Student"
+  name             : "CS PhD Candidate"
   avatar           : "profilepic2.jpg"
-  bio              : "Researcher in Robotics and Machine Learning"
+  bio              : "Researcher in Machine Learning and Robotics"
   location         : "Los Angeles"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=uDKnFSgAAAAJ&hl=en"
   email            : "klekkala@usc.edu"
   researchgate     : "https://www.researchgate.net/profile/Kiran_Lekkala"
-  uri              : 
-  bitbucket        :
+  uri              : "klekkala.github.io"
+  bitbucket        : "klekkala"
   codepen          :
   dribbble         :
   flickr           :
@@ -99,11 +99,11 @@ author:
   github           : "klekkala"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "kiranklekkala"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/kiran-lekkala-61733a99/"
+  orcid            : "http://orcid.org/0000-0003-0731-3918"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -179,6 +179,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   Beobot:

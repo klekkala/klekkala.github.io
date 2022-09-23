@@ -1,6 +1,5 @@
 ---
-title: "ShELL"
-teaser: metaadapt.PNG
+title: "ShELL for RL"
 author_profile: false
 collection: projects
 permalink: /projects/ShELL

@@ -1,6 +1,5 @@
 ---
-title: "Attentive Feature Reuse for Multi Task Meta learning"
-teaser: attentivereuse.PNG
+title: "mtml distributed"
 author_profile: false
 collection: software
 permalink: /software/mtml_dist

@@ -17,4 +17,10 @@ main:
     
   - title: "Resume"
     url: /resume/
+
+  - title: "Cover"
+    url: /cover/  
+    
+  - title: "Bio"
+    url: /bio/
     

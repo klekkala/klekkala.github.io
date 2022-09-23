@@ -1,6 +1,5 @@
 ---
 title: "BeoSim project"
-teaser: beosim.PNG
 author_profile: false
 collection: projects
 permalink: /projects/beosim

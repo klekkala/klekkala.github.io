@@ -1,9 +1,8 @@
 ---
 title: "Robust Unet loss functions"
-teaser: metaadapt.PNG
 author_profile: false
 collection: projects
-permalink: /projects/api_bbb
+permalink: /projects/robust_unet
 excerpt: 'Robust loss function for UNets prshanth codebase'
 date: 2019-09-15
 venue: ''
