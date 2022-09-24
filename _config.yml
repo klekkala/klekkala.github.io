@@ -102,7 +102,7 @@ author:
   instagram        : "kiranklekkala"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kiran-lekkala-61733a99/"
+  linkedin         : "kiran-lekkala-61733a99"
   orcid            : "http://orcid.org/0000-0003-0731-3918"
   pinterest        :
   soundcloud       :
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  software:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -184,10 +184,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  Beobot:
-    output: true
-    permalink: /:collection/:path/
-  BeoSim:
+  datasets:
     output: true
     permalink: /:collection/:path/
 

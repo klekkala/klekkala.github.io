@@ -10,8 +10,3 @@ redirect_from:
 ---
 
 
-Kiran is a researcher who currently is doing his PhD. at USC, majoring in CS. Apart from his research, he loves to learn math, especially pure math.
-
-
-
-Kiran is an adventures. workout, surf, dog lover. violin music.
