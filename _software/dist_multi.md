@@ -1,5 +1,5 @@
 ---
-title: "Distributed multi task learning"
+title: "Distributed multi-task learning"
 author_profile: false
 collection: software
 permalink: /software/dist_multi
