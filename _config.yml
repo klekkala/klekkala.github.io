@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiran Lekkala"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Kiran Lekkala"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "CS PhD Candidate"
+  name             : "Kiran Lekkala"
   avatar           : "profilepic2.jpg"
   bio              : "Researcher in Machine Learning and Robotics"
   location         : "Los Angeles"
