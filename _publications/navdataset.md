@@ -1,8 +1,10 @@
 ---
-title: "Streetlearn navigation dataset"
+title: "Real-world Visual Navigation in a Simulator: A new Benchmark"
 collection: publications
-permalink: /publication/navdataset
-date: 2009-10-01
+permalink: /publication/navdataset.pdf
+date: 2022-05-01
 venue: 'Preprint, Arxiv'
-excerpt: 'We develop new algorithms for simultaneous learning of multiple tasks (e.g., image classification, depth estimation), and for adapting to unseen task/domain distributions within those high-level tasks (e.g., different environments). First, we learn common representations underlying all tasks. We then propose an attention mechanism to dynamically specialize the network, at runtime, for each task. Our approach is based on weighting each feature map of the backbone network, based on its relevance to a particular task.'
+authors: Kiran Lekkala, Laurent Itti
+excerpt: 'Current approaches, like the the streetlearn environment uses Google street view imagery which follows a easy pattern of having 4 way intersections. We propose a dataset and a simulator which can be used by. The dataset is USC ILab 3D dataset which can also be used for 3D reconstructions. Beogym is the simulator and is used for Reinforcement learning and planning. Although our dataset spans over a smaller range compared to google streetview, we focus on more complex set of intersection and more intersection. We also benchmark the current RL and planning algorithms on the USC ILab 3D dataset.'
+tldr: Using rollouts to speed-up RL
 ---

@@ -2,8 +2,10 @@
 title: "Shaped Policy Search for Evolutionary Strategies using Waypoints"
 author_profile: false
 collection: publications
-permalink: https://arxiv.org/pdf/2105.14639.pdf
+permalink: /files/shaped_search.pdf
 date: 2021-05-01
+authors: <u>Kiran Lekkala</u>, Laurent Itti
 venue: 'International conference on Robotics and Automation'
-excerpt: 'We develop new algorithms for simultaneous learning of multiple tasks (e.g., image classification, depth estimation), and for adapting to unseen task/domain distributions within those high-level tasks (e.g., different environments). First, we learn common representations underlying all tasks. We then propose an attention mechanism to dynamically specialize the network, at runtime, for each task. Our approach is based on weighting each feature map of the backbone network, based on its relevance to a particular task.'
+excerpt: 'In this paper, we try to better exploration in Blackbox methods, particularly Evolution strategies (ES), when applied to Reinforcement Learning (RL) problems where inter- mediate waypoints/subgoals are available. Since Evolutionary strategies are highly parallelizable, instead of extracting just a scalar cumulative reward, we use the state-action pairs from the trajectories obtained during rollouts/evaluations, to learn the dynamics of the agent. The learnt dynamics are then used in the optimization procedure to speed-up training. Lastly, we show how our proposed approach is universally applicable by presenting results from experiments conducted on Carla driving and UR5 robotic arm simulators.'
+tldr: Using rollouts to speed-up RL
 ---
