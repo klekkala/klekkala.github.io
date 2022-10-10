@@ -6,6 +6,5 @@ permalink: /files/shaped_search.pdf
 date: 2021-05-01
 authors: <u>Kiran Lekkala</u>, Laurent Itti
 venue: 'International conference on Robotics and Automation'
-excerpt: 'In this paper, we try to better exploration in Blackbox methods, particularly Evolution strategies (ES), when applied to Reinforcement Learning (RL) problems where inter- mediate waypoints/subgoals are available. Since Evolutionary strategies are highly parallelizable, instead of extracting just a scalar cumulative reward, we use the state-action pairs from the trajectories obtained during rollouts/evaluations, to learn the dynamics of the agent. The learnt dynamics are then used in the optimization procedure to speed-up training. Lastly, we show how our proposed approach is universally applicable by presenting results from experiments conducted on Carla driving and UR5 robotic arm simulators.'
-tldr: Using rollouts to speed-up RL
+excerpt: 'We try to better exploration in Blackbox methods, particularly Evolution strategies (ES), when applied to Reinforcement Learning (RL) problems where intermediate waypoints/subgoals are available. We use the state-action pairs from the trajectories obtained during rollouts/evaluations, to learn the dynamics of the agent which are then fused into the optimization procedure.'
 ---
