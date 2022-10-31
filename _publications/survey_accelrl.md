@@ -1,5 +1,5 @@
 ---
-title: "Accelerating Reinforcement learning using learnable Skills and Primitives: A Review"
+title: "Learning Reusable Skills and Primitives for Lifelong learning: A Survey"
 collection: publications
 permalink: /publication/survey_accelrl.pdf
 date: 2022-09-01

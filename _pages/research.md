@@ -1,12 +1,7 @@
 ---
 layout: archive
-title: "Cover Letter"
-permalink: /cover
-excerpt: "Cover Letter"
+title: "Research"
+permalink: /research
+excerpt: "Research"
 author_profile: true
-redirect_from: 
-  - /cover/
-  - /cover.html
 ---
-
-
