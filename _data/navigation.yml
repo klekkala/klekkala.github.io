@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/  
-
-  - title: "Projects"
-    url: /projects/   
+    url: /publications/   
 
   - title: "Datasets"
     url: /datasets/ 
@@ -15,11 +12,14 @@ main:
   - title: "Hardware"
     url: /hardware/  
 
-  - title: "Research"
-    url: /research/  
-
+  - title: "Projects"
+    url: /projects/  
+    
   - title: "Resume"
     url: /resume/
+
+  - title: "Cover"
+    url: /cover/  
     
   - title: "Bio"
     url: /bio/
