@@ -6,6 +6,6 @@ permalink: /publication/meta_adapt
 date: 2019-03-01
 venue: Arxiv
 authors: Kiran Lekkala, Laurent Itti
-excerpt: 'We develop new algorithms for simultaneous learning of multiple tasks (e.g., image classification, depth estimation), and for adapting to unseen task/domain distributions within those high-level tasks (e.g., different environments). First, we learn common representations underlying all tasks. We then propose an attention mechanism to dynamically specialize the network, at runtime, for each task. Our approach is based on weighting each feature map of the backbone network, based on its relevance to a particular task.'
+excerpt: 'In real-world imitation learning, where the trajectory distribution of most of the tasks dynamically shifts, model fitting on continuously aggregated data alone would be futile. We show experiments where the agent is trained from a diversity of environmental tasks and is also able to adapt to an unseen environment, using few-shot learning.'
 date: 2019-09-15
 ---
