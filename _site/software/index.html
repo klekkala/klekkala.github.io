@@ -149,6 +149,9 @@
             <li class="masthead__menu-item"><a href="https://klekkala.github.io/publications/">Publications</a></li>
           
             
+            <li class="masthead__menu-item"><a href="https://klekkala.github.io/projects/">Projects</a></li>
+          
+            
             <li class="masthead__menu-item"><a href="https://klekkala.github.io/datasets/">Datasets</a></li>
           
             
@@ -158,13 +161,10 @@
             <li class="masthead__menu-item"><a href="https://klekkala.github.io/hardware/">Hardware</a></li>
           
             
-            <li class="masthead__menu-item"><a href="https://klekkala.github.io/projects/">Projects</a></li>
+            <li class="masthead__menu-item"><a href="https://klekkala.github.io/research/">Research</a></li>
           
             
             <li class="masthead__menu-item"><a href="https://klekkala.github.io/resume/">Resume</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="https://klekkala.github.io/cover/">Cover</a></li>
           
             
             <li class="masthead__menu-item"><a href="https://klekkala.github.io/bio/">Bio</a></li>
@@ -212,7 +212,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://klekkala.github.io/software/dist_multi" rel="permalink">Distributed multi-task learning
+        <a href="https://klekkala.github.io/software/dist_multi" rel="permalink">Distributed Multi-Task Learning
 </a>
       
     </h2>
@@ -222,7 +222,7 @@
         
 
     
-    <p class="archive__item-excerpt" itemprop="description"><p>API which allows distributed training for multi task learning. Usually multi task learning is done on a single machine/GPU, especially due to the networks having small footprints. But in the case networks tend to be larger, especially in computer vision where the memory consumption of bottleneck/feature extractor networks, along with the individual task specific heads tend to be higher. In these scinarios, we could have divide the entire model on different machines.</p>
+    <p class="archive__item-excerpt" itemprop="description"><p>API which allows distributed training for multi-task learning on multiple nodes/machines in a cluster. This system is useful when training huge models with a significantly larger memory footprint. Each network in the model could be placed on a node and the gradients or feature tensors could be communicated between the nodes.</p>
 </p>
     
     
@@ -262,15 +262,13 @@
         
 
     
-    <p class="archive__item-excerpt" itemprop="description"><p>Beogym is a gym environment for training RL agents to perform high level navigation. To use this API, you need a dataset of panaromic images and the GPS coordinates associated with them. Although this is primarily designed for USC ILab 3D dataset, you can plug in any outdoor dataset which have the necassary attributes. This API also has added functionality of integrating CarlaEnv which is an API for training RL agents to navigate in CARLA simulator.</p>
+    <p class="archive__item-excerpt" itemprop="description"><p>Gym environment for training RL agents to perform high-level navigation. Although this API is primarily designed for <a href="https://klekkala.github.io/datasets/usc_ilab3d">USC-ILab 3D dataset</a>, you can plug in any dataset containing GPS annoted panaromas. This API also has added functionality accessing data from CARLA simulator which can aid in Sim2Real transfer.</p>
 </p>
     
     
 
   </article>
 </div>
-
-
 
 
 
