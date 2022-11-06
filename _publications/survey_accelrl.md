@@ -6,5 +6,3 @@ date: 2022-12-01
 venue: 'Journal, Under submission'
 excerpt: 'Reinforcement Learning (RL), in the context of Lifelong learning, involves retaining knowledge learnt from different tasks and selectively transfer knowledge to facilitate the learning of new tasks. We systematically review and present a survey on recent advances in extracting skills and primitive behaviours that are learnt during training and using them for quickly learning or adapting new unseen tasks.'
 ---
-
-
