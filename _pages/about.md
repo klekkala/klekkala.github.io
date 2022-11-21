@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-I am a 4th year Computer Science PhD candidate in [ILab](https://ilab.usc.edu/) at the [University of Southern California](https://usc.edu) working with Prof. [Laurent Itti](http://ilab.usc.edu/itti/). You can find my [Resume](files/kiran_resume.pdf), [Cover Letter](files/cover_letter.pdf) and [Bio](files/cover_letter.pdf).
+I am a 4th year Computer Science PhD candidate in [ILab](https://ilab.usc.edu/) at the [University of Southern California](https://usc.edu) working with Prof. [Laurent Itti](http://ilab.usc.edu/itti/). You can find my [Resume](files/kiran_cv.pdf), [Research](https://klekkala.github.io/research/) and [Bio](https://klekkala.github.io/bio/).
 
 For my thesis, I work on Knowledge transfer and sharing between agent models in mobile navigation and manipulation. I am also interested in distributed computing and try to utilize parallelized methods in the above training procedures.
 
@@ -18,7 +18,7 @@ For my thesis, I work on Knowledge transfer and sharing between agent models in 
 During my undergraduate studies, I worked on Autonomous Visual Navigation for Quadcopter as part of my Hons. Project. I was responsible for building the hardware platform and implementing state-estimation modules, primarily visual-inertial SLAM methods.
 
 
-I'm also a full-stack roboticicst and spend rest of my time building and deploying open sourced learning algorithms to hardware platforms.We recently built a large-scale mobile-robot for our experiments. Please visit the Beobotv3 project for more details. Recently, we also started BeoSim, which is a [Gazebo](http://gazebosim.org/) based simulator for large-scale mobile-manipulation tasks using a simulated version of Beobot. Checkout the [BeoSim](http://gazebosim.org/) project.
+I'm also a full-stack roboticicst and spend rest of my time building and deploying open sourced learning algorithms to hardware platforms. We recently built a large-scale mobile-robot for our experiments. Please visit the Beobotv3 project for more details. Recently, we also started BeoSim, which is a [Gazebo](http://gazebosim.org/) based simulator for large-scale mobile-manipulation tasks using a simulated version of Beobot. Checkout the [BeoSim](http://gazebosim.org/) project.
 
 
 I borrowed this website from this amazing [repository](https://github.com/academicpages/academicpages.github.io).
