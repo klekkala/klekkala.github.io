@@ -7,7 +7,6 @@ date: 2016-10-01
 venue: 'IEEE Annual India Conference (INDICON)'
 authors: Kiran Lekkala, Vinay Mittal
 excerpt: 'We propose a navigation system consisting of a novel multi-sensor fusion method for calculating precise and accurate aerial coordinates and orientation, of a quadcopter in indoor and GPS-silent environments. This system comprises of a SLAM system that uses Oriented FAST and rotated BRIEF (ORB) features, also known as ORB-SLAM and an Extended Kalman Filter (EKF).'
-teaser: acc_aug_quad.png
 ---
 
 
