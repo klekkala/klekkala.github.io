@@ -18,15 +18,15 @@ For my thesis, I work on Knowledge transfer and sharing between agent models in 
 During my undergraduate studies, I worked on Autonomous Visual Navigation for Quadcopter as part of my Hons. Project. I was responsible for building the hardware platform and implementing state-estimation modules, primarily visual-inertial SLAM methods.
 
 
-I'm also a full-stack roboticicst and spend rest of my time building and deploying open sourced learning algorithms to hardware platforms. We recently built a large-scale mobile-robot for our experiments. Please visit the Beobotv3 project for more details. Recently, we also started BeoSim, which is a [Gazebo](http://gazebosim.org/) based simulator for large-scale mobile-manipulation tasks using a simulated version of Beobot. Checkout the [BeoSim](http://gazebosim.org/) project.
+I'm also a full-stack roboticicst and spend rest of my time building and deploying open sourced learning algorithms to hardware platforms. We recently built a large-scale mobile-robot for our experiments. Please visit the [Beobotv3](https://klekkala.github.io/hardware/) project for more details.
 
 
 I borrowed this website from this amazing [repository](https://github.com/academicpages/academicpages.github.io).
 
 
 ## News
-- Paper accepted in International Conference on Robotics and Automation 2021
-- Paper accepted in International Conference on Learning Representations workshop
+- Paper accepted in International Conference on Robotics and Automation 2021!
+- Paper accepted in International Conference on Learning Representations workshop!
 - Preprint on Attentive feature reuse out!
 - Preprint on Meta adaptation out!
 - I’m honoured to have recieved the Annenberg Fellowship (10% acceptance rate) for my PhD!
