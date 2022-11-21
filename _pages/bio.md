@@ -2,7 +2,6 @@
 layout: archive
 title: "Bio"
 permalink: /bio
-excerpt: "Bio"
 author_profile: true
 ---
 
