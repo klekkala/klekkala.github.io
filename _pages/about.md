@@ -16,7 +16,7 @@ I am a 4th year Computer Science PhD candidate in [ILab](https://ilab.usc.edu/) 
 For my thesis, I work on Knowledge transfer and sharing between agent models in mobile navigation and manipulation. I am also interested in distributed computing and try to utilize parallelized methods in the above training procedures.
 
 
-During my undergraduate studies, I worked on Autonomous Visual Navigation for Quadcopter as part of my Hons. Project. I was responsible for building the hardware platform and implementing state-estimation modules, primarily visual-inertial SLAM methods.
+During my undergraduate studies, I worked on Autonomous Visual Navigation for Quadcopter as part of my Hons. Project. I implemented state-estimation modules, primarily using sensor fusion for visual-inertial SLAM methods.
 
 
 I'm also a full-stack roboticicst and spend rest of my time building and deploying open sourced learning algorithms to hardware platforms. We recently built a large-scale mobile-robot for our experiments. Please visit the [Beobotv3](https://klekkala.github.io/hardware/) project for more details.
