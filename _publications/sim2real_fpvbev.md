@@ -1,5 +1,5 @@
 ---
-title: "Sim2Real transfer using a Simulator and Real-world agent"
+title: "World model based sim2real transfer for visual navigation"
 collection: publications
 permalink: /publication/sim2real.pdf
 date: 2021-04-01

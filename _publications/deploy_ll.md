@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Generalization for Distributed Multi-Task learning"
+title: "Evaluating Pretrained models for Deployable Lifelong Learning"
 author_profile: false
 collection: publications
 permalink: /files/att_feature.pdf

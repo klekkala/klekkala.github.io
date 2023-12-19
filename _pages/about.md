@@ -11,15 +11,18 @@ redirect_from:
 ---
 
 
-I am a 4th year Computer Science PhD candidate in [ILab](https://ilab.usc.edu/) at the [University of Southern California](https://usc.edu) working with Prof. [Laurent Itti](http://ilab.usc.edu/itti/). You can find my [Resume](files/kiran_cv.pdf), [Research](https://klekkala.github.io/research/) and [Bio](https://klekkala.github.io/bio/).
+I am a Final year Computer Science PhD candidate in [ILab](https://ilab.usc.edu/) at the [University of Southern California](https://usc.edu) working with Prof. [Laurent Itti](http://ilab.usc.edu/itti/). You can find my [Resume](files/kiran_cv.pdf), [CV](files/kiran_cv.pdf), [Research](https://klekkala.github.io/research/) and [Bio](https://klekkala.github.io/bio/).
 
-For my thesis, I work on Knowledge transfer and sharing between agent models in mobile navigation and manipulation. I am also interested in distributed computing and try to utilize parallelized methods in the above training procedures.
+My PhD thesis is on Transferrable Pretrained models that can be deployed for Lifelong Learning, specifically in the context of Visual Navigation for Mobile robots. Along with this I'm also interested in 3D Generative models that allow us to build effective Simulators that help agents?
+
+
+Along with the above research interests, I like to engineer research that could be used for... in distributed computing and try to utilize parallelized methods in the above training procedures. I'm also a full-stack roboticicst and spent some time building and deploying models onto hardware platforms. We recently built a large-scale mobile-robot for our experiments. Please visit the [Beobotv3](https://klekkala.github.io/hardware/) project for more details.
 
 
 During my undergraduate studies, I worked on Autonomous Visual Navigation for Quadcopter as part of my Hons. Project. I implemented state-estimation modules, primarily using sensor fusion for visual-inertial SLAM methods.
 
 
-I'm also a full-stack roboticicst and spend rest of my time building and deploying open sourced learning algorithms to hardware platforms. We recently built a large-scale mobile-robot for our experiments. Please visit the [Beobotv3](https://klekkala.github.io/hardware/) project for more details.
+
 
 
 I borrowed this website from this amazing [repository](https://github.com/academicpages/academicpages.github.io).

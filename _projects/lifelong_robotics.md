@@ -1,5 +1,5 @@
 ---
-title: "ShELL for RL"
+title: "Lifelong learning using pretrained models"
 author_profile: false
 collection: projects
 permalink: /projects/shell_rl

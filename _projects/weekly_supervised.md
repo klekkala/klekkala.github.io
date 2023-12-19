@@ -1,5 +1,5 @@
 ---
-title: "Robust loss function for U-Net"
+title: "Weekly supervised learning"
 author_profile: false
 collection: projects
 permalink: /projects/robust_unet
