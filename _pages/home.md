@@ -44,18 +44,7 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 ## Teaching
 
-<td>
-  <p style="font-size:200%" style="margin-left:10em;">
-    
-    <u>CSCI 561: Foundations of Artificial Intelligence<br></u>
-  </p>
-</td>
 
-<td>
-  <p style="font-size:200%" style="margin-left:10em;">
-    <u>CSCI 570: Analysis of Algorithms<br></u>
-  </p>
-</td>
 
 
 I borrowed this website from this amazing [repository](https://github.com/academicpages/academicpages.github.io).
