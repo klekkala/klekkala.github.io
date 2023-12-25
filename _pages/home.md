@@ -48,13 +48,13 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
   <p style="font-size:200%" style="margin-left:10em;">
     
     <u>CSCI 561: Foundations of Artificial Intelligence<br></u>
-    I build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
+  </p>
 </td>
 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
     <u>CSCI 570: Analysis of Algorithms<br></u>
-    I build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
+  </p>
 </td>
 
 
