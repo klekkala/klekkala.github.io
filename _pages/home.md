@@ -42,7 +42,6 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 
 
-## Teaching
 
 
 
