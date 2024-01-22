@@ -45,30 +45,30 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 <img style="margin-top:4em;" align="left" src="../images/deploy_prtr.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> Evaluating Pretrained models for Deployable Lifelong Learning <br> </a> 
+  <p style="margin-left:10em;"> <a href="https://openaccess.thecvf.com/content/WACV2024W/Pretrain/papers/Lekkala_Evaluating_Pretrained_Models_for_Deployable_Lifelong_Learning_WACVW_2024_paper.pdf" style="text-decoration:none"> Evaluating Pretrained models for Deployable Lifelong Learning <br> </a> 
   <strong>Kiran Lekkala*</strong>, Eshan Bhargava*, Laurent Itti <br> <em>In Submission to Conference on Lifelong Learning Agents (CoLLA) 2024; Also published at WACV 2024 Workshop on Pretraining; </em> <br> We implement our novel Scalable Lifelong Learning system that is capable of retaining knowledge from the previously learnt RL tasks. We also create a novel benchmark for evaluating a Deployable Lifelong Learning system for Visual Reinforcement Learning (RL) that is pretrained on our curated dataset. </p>
 </td>
 
 
-<img style="margin-top:2em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
+<img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/gsnav" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> Kiran Lekkala, Henghui Bao, Laurent Itti <br> <em>Presented at Annenberg Symposium 2023. Awarded cash prize. In Submission to NeurIPS 2024 Dataset and Benchmarks Track </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
+  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/gsnav" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>Presented at Annenberg Symposium 2023. Awarded cash prize. In Submission to NeurIPS 2024 Dataset and Benchmarks Track </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
 </td>
 
 
-<img style="margin-top:2em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
+<img style="margin-top:2em;" align="left" src="../images/uscilab3d.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/uscilab3d" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> Kiran Lekkala, Henghui Bao, Laurent Itti <br> <em>In Submission to NeurIPS 2024 Dataset and Benchmarks Track </em> <br> We release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. We also propose a novel 3D point. </p>
+  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/uscilab3d" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>In Submission to NeurIPS 2024 Dataset and Benchmarks Track </em> <br> We release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. We also propose a novel 3D point. </p>
 </td>
 
 
 <img style="margin-top:4em;" align="left" src="../images/shell_system.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> Lightweight Learner for Shared Knowledge Lifelong Learning <br> </a> Yunhao Ge, Yuecheng Li, Di Wu, Ao Xu, Adam M. Jones, Amanda Sofie Rios, Iordanis Fostiropoulos, Shixian Wen, Po-Hsuan Huang, Zachary William Murdock, Gozde Sahin, Shuo Ni, <strong>Kiran Lekkala</strong>, Sumedh Anand Sontakke, Laurent Itti <br> <em>Published in Transactions on Machine Learning Research; Also Presented at ICML LLW 2023. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios. </p>
+  <p style="margin-left:10em;"> <a href="https://arxiv.org/abs/2305.15591" style="text-decoration:none"> Lightweight Learner for Shared Knowledge Lifelong Learning <br> </a> Yunhao Ge, Yuecheng Li, Di Wu, Ao Xu, Adam M. Jones, Amanda Sofie Rios, Iordanis Fostiropoulos, Shixian Wen, Po-Hsuan Huang, Zachary William Murdock, Gozde Sahin, Shuo Ni, <strong>Kiran Lekkala</strong>, Sumedh Anand Sontakke, Laurent Itti <br> <em>Published in Transactions on Machine Learning Research; Also Presented at ICML LLW 2023. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios. </p>
 </td>
 
 
-<img style="margin-top:4em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
+<img style="margin-top:4em;" align="left" src="../images/fet.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://www.science.org/doi/full/10.1126/sciadv.adk1525" style="text-decoration:none"> Ferroelectric FET based Context-Switching FPGA Enabling Dynamic Reconfiguration for Adaptive Deep Learning Machines <br> </a>
     Yixin Xu, Zijian Zhao, Yi Xiao, Tongguang Yu, Halid Mulaosmanovic, Dominik Kleimaier, Stefan Duenkel, Sven Beyer, Xiao Gong, Rajiv Joshi, X Sharon Hu, Shixian Wen, Amanda Sofie Rios, <strong>Kiran Lekkala</strong>, Laurent Itti, Eric Homan, Sumitha George, Vijaykrishnan Narayanan, Kai Ni <br> <em>Published in Science Advances. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios. </p>
@@ -82,16 +82,16 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 </td>
 
 
-<img style="margin-top:2em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
+<img style="margin-top:2em;" align="left" src="../images/tbv.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> Paragraph Segmentation from Audio Transcripts using LLM based Semantic Grounding <br> </a>
+  <p style="margin-left:10em;"> <a style="text-decoration:none"> Paragraph Segmentation from Audio Transcripts using LLM based Semantic Grounding <br> </a>
     <strong>Kiran Lekkala</strong> <br><br> We develop a method that allows for segmenting semantically conistant paragraphs from diaterization tool like whisper </p>
 </td>
 
 
 <img style="margin-top:2em;" align="left" src="../images/robot.PNG" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> Low Cost Autonomous Mapping system for 3D-LLM based Scene Understanding <br> </a>
+  <p style="margin-left:10em;"> <a style="text-decoration:none"> Low Cost Autonomous Mapping system for 3D-LLM based Scene Understanding <br> </a>
     <strong>Kiran Lekkala</strong>, Laurent Itti <br> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
@@ -105,28 +105,28 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 <img style="margin-top:3em;" align="left" src="../images/attfeat_reuse.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> Attentive Feature Reuse for Multi Task Meta learning <br> </a> 
+  <p style="margin-left:10em;"> <a href="https://arxiv.org/abs/2006.07438" style="text-decoration:none"> Attentive Feature Reuse for Multi Task Meta learning <br> </a> 
   <strong>Kiran Lekkala</strong>, Laurent Itti <br> <em>Presented at ICLR 2021 Embodied Multimodal Learning workshop; </em> <br> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
 
 <img style="margin-top:1em;" align="left" src="../images/metaadapt.PNG" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> Meta adaptation using Importance weighted Demonstrations <br> </a>
+  <p style="margin-left:10em;"> <a href="https://arxiv.org/abs/1911.10322" style="text-decoration:none"> Meta adaptation using Importance weighted Demonstrations <br> </a>
     <strong>Kiran Lekkala</strong>, Laurent Itti <br><br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
 
-<img style="margin-top:2em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
+<img style="margin-top:2em;" align="left" src="../images/tencon.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> Simultaneous Aerial Vehicle Localization and Human Tracking <br> </a>
+  <p style="margin-left:10em;"> <a href="https://ieeexplore.ieee.org/abstract/document/7848025" style="text-decoration:none"> Simultaneous Aerial Vehicle Localization and Human Tracking <br> </a>
     <strong>Kiran Lekkala</strong>, VK Mittal <br> <em>Published at TENCON 2015 </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
 
 <img style="margin-top:0em;" align="left" src="../images/visualinertial_slam.jpg" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> Accurate and Augmented Navigation for Quadrocopter based on Multi-Sensor Fusion <br> </a>
+  <p style="margin-left:10em;"> <a href="https://ieeexplore.ieee.org/abstract/document/7838890/" style="text-decoration:none"> Accurate and Augmented Navigation for Quadrocopter based on Multi-Sensor Fusion <br> </a>
     <strong>Kiran Lekkala</strong>, VK Mittal <br><em>Published at INDICON 2016. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
