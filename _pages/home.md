@@ -42,6 +42,11 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
   Chen Liu*, <strong>Kiran Lekkala*</strong>, Laurent Itti <br> <em>Accepted to NeurIPS 2023 Robot Learning Workshop; Under Review at International Conference on Robotics and Automation (ICRA) 2024. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
+<img style="margin-top:3em;" align="left" src="../images/openx_emb.png" width="160" height="160"/>
+<td>
+  <p style="margin-left:10em;"> <a href="https://robotics-transformer-x.github.io/" style="text-decoration:none"> Open X-Embodiment: Robotic Learning Datasets and RT-X Models <br> </a> 
+  Open X-Embodiment Collaboration <br> <em>Accepted at International Conference on Robotics and Automation (ICRA) 2024. </em> <br> We introduce the Open X-Embodiment Dataset, the largest robot learning dataset to date with 1M+ real robot trajectories, spanning 22 robot embodiments. We train large, transformer-based policies on the dataset (RT-1-X, RT-2-X) and show that co-training with our diverse dataset substantially improves performance.</p>
+</td>
 
 <img style="margin-top:4em;" align="left" src="../images/deploy_prtr.png" width="160" height="160"/>
 <td>
