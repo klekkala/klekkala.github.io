@@ -16,7 +16,7 @@ I am a Final year Computer Science PhD candidate in [ILab](https://ilab.usc.edu/
 My PhD thesis is on Transferrable Pretrained models for Visual Navigation that can be deployed on Mobile Robots. Along with this I'm also interested in 3D Generative models that allow us to build effective Simulators from Real-world data.
 
 
-Along with the above research areas, I'm also interested in engineering pipelines for efficient training and inference for ML models. I'm also a full-stack roboticist and worked on building and deploying models onto hardware platforms. We recently built a large-scale mobile-robot for our experiments. Please visit the [Beobotv3](https://klekkala.github.io/hardware/) project for more details.
+Along with the above research areas, I'm also interested in engineering pipelines for efficient training and inference for ML models. I'm also a full-stack roboticist and worked on building and deploying models onto hardware platforms. We recently built a large-scale mobile-robot for our experiments. Please visit the [Beobotv3](https://sites.google.com/usc.edu/beonav/home) project for more details.
 
 
 During my undergraduate studies, I worked on Autonomous Visual Navigation for Quadcopter as part of my Hons. Project. I implemented state-estimation modules, primarily using sensor fusion for visual-inertial SLAM methods.
