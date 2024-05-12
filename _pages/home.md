@@ -39,7 +39,7 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 <img style="margin-top:3em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> World model-based Sim2Real Transfer for Robot Visual Navigation <br> </a> 
-  Chen Liu*, <strong>Kiran Lekkala*</strong>, Laurent Itti <br> <em>Accepted to NeurIPS 2023 Robot Learning Workshop; Under Review at International Conference on Robotics and Automation (ICRA) 2024. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
+  <strong>Kiran Lekkala*</strong>, Chen Liu*, Laurent Itti <br> <em>Accepted to NeurIPS 2023 Robot Learning Workshop; Under Review at International Conference on Intelligent Robots and Systems (IROS) 2024. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
 <img style="margin-top:3em;" align="left" src="../images/openx_emb.png" width="160" height="160"/>
