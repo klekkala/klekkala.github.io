@@ -78,7 +78,7 @@ alphabetically], <br> <em>Published at International Conference on Robotics and 
 <img style="margin-top:4em;" align="left" src="../images/fet.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://www.science.org/doi/full/10.1126/sciadv.adk1525" style="text-decoration:none"> Ferroelectric FET based Context-Switching FPGA Enabling Dynamic Reconfiguration for Adaptive Deep Learning Machines. <br> </a>
-    Yixin Xu, Zijian Zhao, Yi Xiao, Tongguang Yu, Halid Mulaosmanovic, Dominik Kleimaier, Stefan Duenkel, Sven Beyer, Xiao Gong, Rajiv Joshi, X Sharon Hu, Shixian Wen, Amanda Sofie Rios, <strong>Kiran Lekkala</strong>, Laurent Itti, Eric Homan, Sumitha George, Vijaykrishnan Narayanan, Kai Ni <br> <em>Published in Science Advances. </em> <br> we propose a novel ML system for computer vision related tasks that improves task performance, along with keeping the model parameters lower than the baseline approaches.</p>
+    Yixin Xu, Zijian Zhao, Yi Xiao, Tongguang Yu, Halid Mulaosmanovic, Dominik Kleimaier, Stefan Duenkel, Sven Beyer, Xiao Gong, Rajiv Joshi, X Sharon Hu, Shixian Wen, Amanda Sofie Rios, <strong>Kiran Lekkala</strong>, Laurent Itti, Eric Homan, Sumitha George, Vijaykrishnan Narayanan, Kai Ni <br> <em>Published in Science Advances. </em> <br> We propose a novel ML system for computer vision related tasks that improves task performance, along with keeping the model parameters lower than the baseline approaches.</p>
 </td>
 
 
