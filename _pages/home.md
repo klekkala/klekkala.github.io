@@ -105,7 +105,7 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 <img style="margin-top:3em;" align="left" src="../images/shaped_search.PNG" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://ieeexplore.ieee.org/abstract/document/9561607" style="text-decoration:none"> Shaped Policy search for Evolutionary strategies using waypoints <br> </a> 
-  <strong>Kiran Lekkala</strong>, Laurent Itti <br> <em>Published at International Conference on Robotics and Automation (ICRA) 2021 </em> <br> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
+  <strong>Kiran Lekkala</strong>, Laurent Itti <br> <em>Published at International Conference on Robotics and Automation (ICRA) 2021 </em> <br> <br> In this paper, we try to improve exploration in Blackbox methods, particularly Evolution strategies (ES), when applied to Reinforcement Learning (RL) problems where intermediate waypoints/subgoals are available.</p>
 </td>
 
 
