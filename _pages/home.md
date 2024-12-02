@@ -31,7 +31,7 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 <img style="margin-top:2em;" align="left" src="../images/uscilab3d.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="files/uscilab3d.pdf" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> <strong>Kiran Lekkala*</strong>, Henghui Bao*, Piexu Cai, Kevin Lim, Chen Liu, Laurent Itti, <br> <em>Published at NeurIPS 2024</em> <br> We release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. We also propose a novel 3D point. </p>
+  <p style="margin-left:10em;"> <a href="files/uscilab3d.pdf" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> <strong>Kiran Lekkala*</strong>, Henghui Bao*, Piexu Cai, Kevin Lim, Chen Liu, Laurent Itti, <br> <em>Published at NeurIPS 2024</em> <br> We propose a novel pipeline that uses foundational models to annotate 3D pointclouds. We also release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. </p>
 </td>
 
 <img style="margin-top:3em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
