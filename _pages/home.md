@@ -31,20 +31,20 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 <img style="margin-top:2em;" align="left" src="../images/uscilab3d.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/uscilab3d" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>In Submission to NeurIPS 2024 Dataset and Benchmarks Track. </em> <br> We release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. We also propose a novel 3D point. </p>
+  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/uscilab3d" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Piexu Cai, Kevin Lim, Chen Liu, Laurent Itti, <br> <em>Published at NeurIPS 2024</em> <br> We release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. We also propose a novel 3D point. </p>
 </td>
 
 <img style="margin-top:3em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> World model-based Sim2Real Transfer for Robot Visual Navigation <br> </a> 
-  <strong>Kiran Lekkala</strong>, Chen Liu, Laurent Itti <br> <em>Accepted to NeurIPS 2023 Robot Learning Workshop; Under Review at International Conference on Intelligent Robots and Systems (IROS) 2024. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
+  <strong>Kiran Lekkala</strong>, Chen Liu, Laurent Itti <br> <em>Published at International Symposium on Robotics Research (ISRR) 2024; Also presented at NeurIPS 2023 Robot Learning Workshop. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
 
 <img style="margin-top:3em;" align="left" src="../images/openx_emb.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://robotics-transformer-x.github.io/" style="text-decoration:none"> Open X-Embodiment: Robotic Learning Datasets and RT-X Models <br> </a> 
-  Open X-Embodiment Collaboration <br> <em>Accepted at International Conference on Robotics and Automation (ICRA) 2024. </em> <br> We introduce the Open X-Embodiment Dataset, the largest robot learning dataset to date with 1M+ real robot trajectories, spanning 22 robot embodiments. We train large, transformer-based policies on the dataset (RT-1-X, RT-2-X) and show that co-training with our diverse dataset substantially improves performance.</p>
+  Open X-Embodiment Collaboration <br> <em>Published at International Conference on Robotics and Automation (ICRA) 2024. </em> <br> We introduce the Open X-Embodiment Dataset, the largest robot learning dataset to date with 1M+ real robot trajectories, spanning 22 robot embodiments. We train large, transformer-based policies on the dataset (RT-1-X, RT-2-X) and show that co-training with our diverse dataset substantially improves performance.</p>
 </td>
 
 <img style="margin-top:4em;" align="left" src="../images/deploy_prtr.png" width="160" height="160"/>
@@ -58,12 +58,13 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 <img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/gsnav" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>Presented at Annenberg Symposium 2023. Awarded cash prize. Published at NeurIPS 2024. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
+  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/gsnav" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>Presented at CVPR 2024 Workshop on Robotics and Autonomous Driving. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
 </td>
 
 <img style="margin-top:4em;" align="left" src="../images/shell_system.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://arxiv.org/abs/2305.15591" style="text-decoration:none"> Lightweight Learner for Shared Knowledge Lifelong Learning <br> </a> Yunhao Ge, Yuecheng Li, Di Wu, Ao Xu, Adam M. Jones, Amanda Sofie Rios, Iordanis Fostiropoulos, Shixian Wen, Po-Hsuan Huang, Zachary William Murdock, Gozde Sahin, Shuo Ni, <strong>Kiran Lekkala</strong>, Sumedh Anand Sontakke, Laurent Itti <br> <em>Published in Transactions on Machine Learning Research; Also Presented at ICML LLW 2023. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios. </p>
+  <p style="margin-left:10em;"> <a href="https://openreview.net/pdf?id=Jjl2c8kWUc" style="text-decoration:none"> Lightweight Learner for Shared Knowledge Lifelong Learning <br> </a> Yunhao Ge, Yuecheng Li, Di Wu, Ao Xu, Adam M. Jones, Amanda Sofie Rios, Iordanis Fostiropoulos, Shixian Wen, Po-Hsuan Huang, Zachary William Murdock, Gozde Sahin, Shuo Ni, <strong>Kiran Lekkala</strong>, Sumedh Anand Sontakke, Laurent Itti <br> <em>Published in Transactions on Machine Learning Research; Also Presented at ICML LLW 2023. </em> <br> We propose a new Shared Knowledge Lifelong Learning
+(SKILL) challenge, which deploys a decentralized population of LL agents that each sequentially learn different tasks, with all agents operating independently and in parallel. </p>
 </td>
 
 <img style="margin-top:2em;" align="left" src="../images/vep_img.png" width="160" height="160"/>
@@ -76,7 +77,7 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 <img style="margin-top:4em;" align="left" src="../images/fet.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://www.science.org/doi/full/10.1126/sciadv.adk1525" style="text-decoration:none"> Ferroelectric FET based Context-Switching FPGA Enabling Dynamic Reconfiguration for Adaptive Deep Learning Machines. <br> </a>
-    Yixin Xu, Zijian Zhao, Yi Xiao, Tongguang Yu, Halid Mulaosmanovic, Dominik Kleimaier, Stefan Duenkel, Sven Beyer, Xiao Gong, Rajiv Joshi, X Sharon Hu, Shixian Wen, Amanda Sofie Rios, <strong>Kiran Lekkala</strong>, Laurent Itti, Eric Homan, Sumitha George, Vijaykrishnan Narayanan, Kai Ni <br> <em>Published in Science Advances. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios. </p>
+    Yixin Xu, Zijian Zhao, Yi Xiao, Tongguang Yu, Halid Mulaosmanovic, Dominik Kleimaier, Stefan Duenkel, Sven Beyer, Xiao Gong, Rajiv Joshi, X Sharon Hu, Shixian Wen, Amanda Sofie Rios, <strong>Kiran Lekkala</strong>, Laurent Itti, Eric Homan, Sumitha George, Vijaykrishnan Narayanan, Kai Ni <br> <em>Published in Science Advances. </em> <br> we propose a novel ML system for computer vision related tasks that improves task performance, along with keeping the model parameters lower than the baseline approaches.</p>
 </td>
 
 
