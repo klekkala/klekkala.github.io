@@ -40,6 +40,11 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
   <strong>Kiran Lekkala</strong>, Chen Liu, Laurent Itti <br> <em>Published at International Symposium on Robotics Research (ISRR), December, 2024; Also presented at NeurIPS 2023 Robot Learning Workshop. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
+<img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
+<td>
+  <p style="margin-left:10em;"> <a href="https://openreview.net/pdf?id=e2InrwYhK5" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> Henghui Bao*, <strong>Kiran Lekkala*</strong>, Laurent Itti <br> <em>Presented at CVPR Workshop on Robotics and Autonomous Driving, June, 2024. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
+</td>
+
 
 <img style="margin-top:3em;" align="left" src="../images/openx_emb.png" width="160" height="160"/>
 <td>
@@ -48,15 +53,11 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 alphabetically], <br> <em>Published at International Conference on Robotics and Automation (ICRA), May, 2024. </em> <br> We introduce the Open X-Embodiment Dataset, the largest robot learning dataset to date with 1M+ real robot trajectories, spanning 22 robot embodiments. We train large, transformer-based policies on the dataset (RT-1-X, RT-2-X) and show that co-training with our diverse dataset substantially improves performance.</p>
 </td>
 
-<img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
-<td>
-  <p style="margin-left:10em;"> <a href="https://openreview.net/pdf?id=e2InrwYhK5" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> Henghui Bao*, <strong>Kiran Lekkala*</strong>, Laurent Itti <br> <em>Presented at CVPR Workshop on Robotics and Autonomous Driving, June, 2024. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
-</td>
 
 <img style="margin-top:4em;" align="left" src="../images/deploy_prtr.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://openaccess.thecvf.com/content/WACV2024W/Pretrain/papers/Lekkala_Evaluating_Pretrained_Models_for_Deployable_Lifelong_Learning_WACVW_2024_paper.pdf" style="text-decoration:none"> Evaluating Pretrained models for Deployable Lifelong Learning <br> </a> 
-  <strong>Kiran Lekkala*</strong>, Eshan Bhargava*, Laurent Itti <br> <em>Published in the proceedings of Winter Conference on Applications of Computer Vision (WACV) Workshop on Pretraining. </em> <br> We implement our novel Scalable Lifelong Learning system that is capable of retaining knowledge from the previously learnt RL tasks. We also create a novel benchmark for evaluating a Deployable Lifelong Learning system for Visual Reinforcement Learning (RL) that is pretrained on our curated dataset. </p>
+  <strong>Kiran Lekkala*</strong>, Eshan Bhargava*, Laurent Itti <br> <em>Published in the proceedings of Winter Conference on Applications of Computer Vision (WACV) Workshop on Pretraining, January, 2024. </em> <br> We implement our novel Scalable Lifelong Learning system that is capable of retaining knowledge from the previously learnt RL tasks. We also create a novel benchmark for evaluating a Deployable Lifelong Learning system for Visual Reinforcement Learning (RL) that is pretrained on our curated dataset. </p>
 </td>
 
 
@@ -64,14 +65,14 @@ alphabetically], <br> <em>Published at International Conference on Robotics and 
 
 <img style="margin-top:4em;" align="left" src="../images/shell_system.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://openreview.net/pdf?id=Jjl2c8kWUc" style="text-decoration:none"> Lightweight Learner for Shared Knowledge Lifelong Learning <br> </a> Yunhao Ge, Yuecheng Li, Di Wu, Ao Xu, Adam M. Jones, Amanda Sofie Rios, Iordanis Fostiropoulos, Shixian Wen, Po-Hsuan Huang, Zachary William Murdock, Gozde Sahin, Shuo Ni, <strong>Kiran Lekkala</strong>, Sumedh Anand Sontakke, Laurent Itti <br> <em>Published in Transactions on Machine Learning Research; Also Presented at ICML LLW 2023. </em> <br> We propose a new Shared Knowledge Lifelong Learning
+  <p style="margin-left:10em;"> <a href="https://openreview.net/pdf?id=Jjl2c8kWUc" style="text-decoration:none"> Lightweight Learner for Shared Knowledge Lifelong Learning <br> </a> Yunhao Ge, Yuecheng Li, Di Wu, Ao Xu, Adam M. Jones, Amanda Sofie Rios, Iordanis Fostiropoulos, Shixian Wen, Po-Hsuan Huang, Zachary William Murdock, Gozde Sahin, Shuo Ni, <strong>Kiran Lekkala</strong>, Sumedh Anand Sontakke, Laurent Itti <br> <em>Published in Transactions on Machine Learning Research, May, 2023; Also Presented at ICML LLW 2023. </em> <br> We propose a new Shared Knowledge Lifelong Learning
 (SKILL) challenge, which deploys a decentralized population of LL agents that each sequentially learn different tasks, with all agents operating independently and in parallel. </p>
 </td>
 
 <img style="margin-top:2em;" align="left" src="../images/vep_img.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="files/VisualRLTransfer.pdf" style="text-decoration:none"> Value Explicit Pretraining for Goal-Based Transfer Learning <br></a>
-  <strong>Kiran Lekkala</strong>, Henghui Bao, Sumedh Sontakke, Erdem Biyik, Laurent Itti <br> <em>Spotlight presentation at CoRL 2023 Pretraining for Robot Learning; Under review at Robotics and Automation Letters (RA-L). </em> <br> A novel method that allows for learning Task-agnostic representations based on a Contrastive loss that uses value function estimates obtained using a sequence of observations.</p>
+  <strong>Kiran Lekkala</strong>, Henghui Bao, Sumedh Sontakke, Erdem Biyik, Laurent Itti <br> <em>Spotlight presentation at Conference on Robot Learning (CoRL) Pretraining for Robot Learning, November, 2023; Under review at Robotics and Automation Letters (RA-L). </em> <br> A novel method that allows for learning Task-agnostic representations based on a Contrastive loss that uses value function estimates obtained using a sequence of observations.</p>
 </td>
 
 
