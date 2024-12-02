@@ -29,17 +29,17 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 ## Research
 
-<img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
+<img style="margin-top:2em;" align="left" src="../images/uscilab3d.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/gsnav" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>Presented at Annenberg Symposium 2023. Awarded cash prize. Published at NeurIPS 2024. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
+  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/uscilab3d" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>In Submission to NeurIPS 2024 Dataset and Benchmarks Track. </em> <br> We release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. We also propose a novel 3D point. </p>
 </td>
-
 
 <img style="margin-top:3em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> World model-based Sim2Real Transfer for Robot Visual Navigation <br> </a> 
-  <strong>Kiran Lekkala*</strong>, Chen Liu, Laurent Itti <br> <em>Accepted to NeurIPS 2023 Robot Learning Workshop; Under Review at International Conference on Intelligent Robots and Systems (IROS) 2024. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
+  <strong>Kiran Lekkala</strong>, Chen Liu, Laurent Itti <br> <em>Accepted to NeurIPS 2023 Robot Learning Workshop; Under Review at International Conference on Intelligent Robots and Systems (IROS) 2024. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
+
 
 <img style="margin-top:3em;" align="left" src="../images/openx_emb.png" width="160" height="160"/>
 <td>
@@ -55,11 +55,11 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 
 
-<img style="margin-top:2em;" align="left" src="../images/uscilab3d.png" width="160" height="160"/>
-<td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/uscilab3d" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>In Submission to NeurIPS 2024 Dataset and Benchmarks Track. </em> <br> We release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. We also propose a novel 3D point. </p>
-</td>
 
+<img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
+<td>
+  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/gsnav" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>Presented at Annenberg Symposium 2023. Awarded cash prize. Published at NeurIPS 2024. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
+</td>
 
 <img style="margin-top:4em;" align="left" src="../images/shell_system.png" width="160" height="160"/>
 <td>
