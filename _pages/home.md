@@ -49,7 +49,7 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 <img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="files/gsnav.pdf" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> Henghui Bao*, <strong>Kiran Lekkala*</strong>, Laurent Itti <br> <em>Presented at CVPR 2024 Workshop on Robotics and Autonomous Driving. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
+  <p style="margin-left:10em;"> <a href="https://openreview.net/pdf?id=e2InrwYhK5" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> Henghui Bao*, <strong>Kiran Lekkala*</strong>, Laurent Itti <br> <em>Presented at CVPR 2024 Workshop on Robotics and Autonomous Driving. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
 </td>
 
 <img style="margin-top:4em;" align="left" src="../images/deploy_prtr.png" width="160" height="160"/>
@@ -69,7 +69,7 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 <img style="margin-top:2em;" align="left" src="../images/vep_img.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="files/vep.pdf" style="text-decoration:none"> Value Explicit Pretraining for Goal-Based Transfer Learning <br></a>
+  <p style="margin-left:10em;"> <a href="files/VisualRLTransfer.pdf" style="text-decoration:none"> Value Explicit Pretraining for Goal-Based Transfer Learning <br></a>
   <strong>Kiran Lekkala</strong>, Henghui Bao, Sumedh Sontakke, Erdem Biyik, Laurent Itti <br> <em>Spotlight presentation at CoRL 2023 Pretraining for Robot Learning; Under review at Robotics and Automation Letters (RA-L). </em> <br> A novel method that allows for learning Task-agnostic representations based on a Contrastive loss that uses value function estimates obtained using a sequence of observations.</p>
 </td>
 
