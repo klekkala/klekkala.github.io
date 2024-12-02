@@ -31,12 +31,12 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 <img style="margin-top:2em;" align="left" src="../images/uscilab3d.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/uscilab3d" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Piexu Cai, Kevin Lim, Chen Liu, Laurent Itti, <br> <em>Published at NeurIPS 2024</em> <br> We release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. We also propose a novel 3D point. </p>
+  <p style="margin-left:10em;"> <a href="files/uscilab3d.pdf" style="text-decoration:none"> USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Piexu Cai, Kevin Lim, Chen Liu, Laurent Itti, <br> <em>Published at NeurIPS 2024</em> <br> We release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment. We also propose a novel 3D point. </p>
 </td>
 
 <img style="margin-top:3em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> World model-based Sim2Real Transfer for Robot Visual Navigation <br> </a> 
+  <p style="margin-left:10em;"> <a href="files/fpvbev.pdf" style="text-decoration:none"> World model-based Sim2Real Transfer for Robot Visual Navigation <br> </a> 
   <strong>Kiran Lekkala</strong>, Chen Liu, Laurent Itti <br> <em>Published at International Symposium on Robotics Research (ISRR) 2024; Also presented at NeurIPS 2023 Robot Learning Workshop. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
@@ -47,19 +47,19 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
   Open X-Embodiment Collaboration <br> <em>Published at International Conference on Robotics and Automation (ICRA) 2024. </em> <br> We introduce the Open X-Embodiment Dataset, the largest robot learning dataset to date with 1M+ real robot trajectories, spanning 22 robot embodiments. We train large, transformer-based policies on the dataset (RT-1-X, RT-2-X) and show that co-training with our diverse dataset substantially improves performance.</p>
 </td>
 
+<img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
+<td>
+  <p style="margin-left:10em;"> <a href="files/gsnav.pdf" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> Henghui Bao*, <strong>Kiran Lekkala*</strong>, Laurent Itti <br> <em>Presented at CVPR 2024 Workshop on Robotics and Autonomous Driving. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
+</td>
+
 <img style="margin-top:4em;" align="left" src="../images/deploy_prtr.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://openaccess.thecvf.com/content/WACV2024W/Pretrain/papers/Lekkala_Evaluating_Pretrained_Models_for_Deployable_Lifelong_Learning_WACVW_2024_paper.pdf" style="text-decoration:none"> Evaluating Pretrained models for Deployable Lifelong Learning <br> </a> 
-  <strong>Kiran Lekkala*</strong>, Eshan Bhargava*, Laurent Itti <br> <em>In Submission to Conference on Lifelong Learning Agents (CoLLA) 2024; Also published at WACV 2024 Workshop on Pretraining. </em> <br> We implement our novel Scalable Lifelong Learning system that is capable of retaining knowledge from the previously learnt RL tasks. We also create a novel benchmark for evaluating a Deployable Lifelong Learning system for Visual Reinforcement Learning (RL) that is pretrained on our curated dataset. </p>
+  <strong>Kiran Lekkala*</strong>, Eshan Bhargava*, Laurent Itti <br> <em>Published in the proceedings of WACV 2024 Workshop on Pretraining. </em> <br> We implement our novel Scalable Lifelong Learning system that is capable of retaining knowledge from the previously learnt RL tasks. We also create a novel benchmark for evaluating a Deployable Lifelong Learning system for Visual Reinforcement Learning (RL) that is pretrained on our curated dataset. </p>
 </td>
 
 
 
-
-<img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
-<td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/gsnav" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>Presented at CVPR 2024 Workshop on Robotics and Autonomous Driving. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
-</td>
 
 <img style="margin-top:4em;" align="left" src="../images/shell_system.png" width="160" height="160"/>
 <td>
@@ -112,14 +112,14 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 <img style="margin-top:3em;" align="left" src="../images/attfeat_reuse.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://arxiv.org/abs/2006.07438" style="text-decoration:none"> Attentive Feature Reuse for Multi Task Meta learning <br> </a> 
-  <strong>Kiran Lekkala</strong>, Laurent Itti <br> <em>Presented at ICLR 2021 Embodied Multimodal Learning workshop; </em> <br> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
+  <strong>Kiran Lekkala</strong>, Laurent Itti <br> <em>Oral presentation at ICLR 2021 Embodied Multimodal Learning workshop; </em> <br> <br> We develop new algorithms for simultaneous learning of multiple tasks, and for adapting to unseen task/domain distributions within those high-level tasks.</p>
 </td>
 
 
 <img style="margin-top:1em;" align="left" src="../images/metaadapt.PNG" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://arxiv.org/abs/1911.10322" style="text-decoration:none"> Meta adaptation using Importance weighted Demonstrations <br> </a>
-    <strong>Kiran Lekkala</strong>, Laurent Itti <br><br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
+    <strong>Kiran Lekkala</strong>, Laurent Itti <br><br> We propose a novel algorithm to generalize on any related task by leveraging prior knowledge on a set of specific tasks, which involves assigning importance weights to each past demonstration</p>
 </td>
 
 
