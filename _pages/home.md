@@ -133,14 +133,14 @@ alphabetically], <br> <em>Published at International Conference on Robotics and 
 <img style="margin-top:2em;" align="left" src="../images/tbv.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a style="text-decoration:none"> Paragraph Segmentation from Audio Transcripts using LLM based Semantic Grounding <br> </a>
-    <strong>Kiran Lekkala</strong> <br><br> We develop a method that allows for segmenting semantically conistant paragraphs from diaterization tool like whisper </p>
+    <br> We develop a method that allows for segmenting semantically conistant paragraphs from diaterization tool like whisper </p>
 </td>
 
 
 <img style="margin-top:2em;" align="left" src="../images/robot.PNG" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a style="text-decoration:none"> Low Cost Autonomous Mapping system for 3D-LLM based Scene Understanding <br> </a>
-    <strong>Kiran Lekkala</strong>, Laurent Itti <br> <br> Virtual campus system for USC that is based on 3D-LLMs and answers queries that users input. The system also uses Gaussian splats for rendering realistic visuals on the campus environment.</p>
+    <br> Virtual campus system for USC that is based on 3D-LLMs and answers queries that users input. The system also uses Gaussian splats for rendering realistic visuals on the campus environment.</p>
 </td>
 
 
