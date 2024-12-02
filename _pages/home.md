@@ -11,9 +11,9 @@ redirect_from:
 ---
 
 
-I am a Final year Computer Science PhD candidate in [ILab](https://ilab.usc.edu/) at the [University of Southern California](https://usc.edu) working with Prof. [Laurent Itti](http://ilab.usc.edu/itti/). You can find my [Resume](files/kiran_cv.pdf), [CV](files/kiran_cv.pdf), [Research](https://klekkala.github.io/research/) and [Bio](https://klekkala.github.io/bio/).
+I recently obtained my PhD from the [University of Southern California](https://usc.edu) where I worked with Prof. [Laurent Itti](http://ilab.usc.edu/itti/). My PhD thesis falls at the intersection of Machine Learning, Computer Vision and Robotics. You can find my [Resume](files/kiran_resume.pdf), [CV](files/kiran_cv.pdf), [Research](https://klekkala.github.io/research/) and [Bio](https://klekkala.github.io/bio/).
 
-My PhD thesis is on Transferrable Pretrained models for Visual Navigation that can be deployed on Mobile Robots. Along with this I'm also interested in 3D Generative models that allow us to build effective Simulators from Real-world data.
+My PhD thesis is on Transferrable Pretrained models for Visual Navigation that are trained using large datasets of unlabeled videos. Along with this I'm also interested in 3D Generative models that allow us to build effective Simulators from Real-world data.
 
 
 Along with the above research areas, I'm also interested in engineering pipelines for efficient training and inference for ML models. I'm also a full-stack roboticist and worked on building and deploying models onto hardware platforms. We recently built a large-scale mobile-robot for our experiments. Please visit the [Beobotv3](https://sites.google.com/usc.edu/beonav/home) project for more details.
@@ -29,17 +29,16 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 
 ## Research
 
-<img style="margin-top:2em;" align="left" src="../images/vep_img.png" width="160" height="160"/>
+<img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
 <td>
-  <p style="margin-left:10em;"> <a href="https://arxiv.org/abs/2312.12339" style="text-decoration:none"> Value Explicit Pretraining for Goal-Based Transfer Learning <br></a>
-  <strong>Kiran Lekkala</strong>, Henghui Bao, Sumedh Sontakke, Laurent Itti <br> <em>Spotlight presentation at CoRL 2023 Pretraining for Robot Learning; Submitted to International Conference on Machine Learning (ICML) 2024. </em> <br> A novel method that allows for learning Task-agnostic representations based on a Contrastive loss that uses value function estimates obtained using a sequence of observations.</p>
+  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/gsnav" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>Presented at Annenberg Symposium 2023. Awarded cash prize. Published at NeurIPS 2024. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
 </td>
 
 
 <img style="margin-top:3em;" align="left" src="../images/carlagstview.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none"> World model-based Sim2Real Transfer for Robot Visual Navigation <br> </a> 
-  <strong>Kiran Lekkala*</strong>, Chen Liu*, Laurent Itti <br> <em>Accepted to NeurIPS 2023 Robot Learning Workshop; Under Review at International Conference on Intelligent Robots and Systems (IROS) 2024. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
+  <strong>Kiran Lekkala*</strong>, Chen Liu, Laurent Itti <br> <em>Accepted to NeurIPS 2023 Robot Learning Workshop; Under Review at International Conference on Intelligent Robots and Systems (IROS) 2024. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
 <img style="margin-top:3em;" align="left" src="../images/openx_emb.png" width="160" height="160"/>
@@ -55,11 +54,6 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 </td>
 
 
-<img style="margin-top:2em;" align="left" src="../images/3dnavsim.png" width="160" height="160"/>
-<td>
-  <p style="margin-left:10em;"> <a href="https://sites.google.com/usc.edu/gsnav" style="text-decoration:none"> Real-world Visual Navigation in a Simulator using Scene Generation <br> </a> <strong>Kiran Lekkala</strong>, Henghui Bao, Laurent Itti <br> <em>Presented at Annenberg Symposium 2023. Awarded cash prize. In Submission to NeurIPS 2024 Dataset and Benchmarks Track. </em> <br> We design a data-driven simulator for outdoor navigation that employs Gaussian Splatting for rendering, and uses a graph based engine to query appropriate splat file during simulation. </p>
-</td>
-
 
 <img style="margin-top:2em;" align="left" src="../images/uscilab3d.png" width="160" height="160"/>
 <td>
@@ -70,6 +64,12 @@ During my undergraduate studies, I worked on Autonomous Visual Navigation for Qu
 <img style="margin-top:4em;" align="left" src="../images/shell_system.png" width="160" height="160"/>
 <td>
   <p style="margin-left:10em;"> <a href="https://arxiv.org/abs/2305.15591" style="text-decoration:none"> Lightweight Learner for Shared Knowledge Lifelong Learning <br> </a> Yunhao Ge, Yuecheng Li, Di Wu, Ao Xu, Adam M. Jones, Amanda Sofie Rios, Iordanis Fostiropoulos, Shixian Wen, Po-Hsuan Huang, Zachary William Murdock, Gozde Sahin, Shuo Ni, <strong>Kiran Lekkala</strong>, Sumedh Anand Sontakke, Laurent Itti <br> <em>Published in Transactions on Machine Learning Research; Also Presented at ICML LLW 2023. </em> <br> We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios. </p>
+</td>
+
+<img style="margin-top:2em;" align="left" src="../images/vep_img.png" width="160" height="160"/>
+<td>
+  <p style="margin-left:10em;"> <a href="files/vep.pdf" style="text-decoration:none"> Value Explicit Pretraining for Goal-Based Transfer Learning <br></a>
+  <strong>Kiran Lekkala</strong>, Henghui Bao, Sumedh Sontakke, Erdem Biyik, Laurent Itti <br> <em>Spotlight presentation at CoRL 2023 Pretraining for Robot Learning; Under review at Robotics and Automation Letters (RA-L). </em> <br> A novel method that allows for learning Task-agnostic representations based on a Contrastive loss that uses value function estimates obtained using a sequence of observations.</p>
 </td>
 
 
